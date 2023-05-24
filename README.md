@@ -24,6 +24,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | Trash  | (224,224,3) |  plastic bottle, aluminum can, glass bottle, cardboard box, plastic trashbag | ONNX | [model](002_trash_classify) |
 | Kitchen | (224,224,3) |  cooking pot, spatula, kitchen knife, kitchen cutlery, baking sheet | ONNX | [model](003_kitchen_classify) |
 | laundry | (224,224,3) | washing machine, laundry basket, detergent, clothes | ONNX | [model](004_laundry_classify/) |
+| cleaning | (224,224,3) | vacuum cleaner, mop, broom, dustpan, cleaning supplies | ONNX | [model](005_cleaning_classify/) |
 
 ### Detect
 *Coming soon!*
