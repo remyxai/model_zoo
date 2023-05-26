@@ -26,6 +26,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | laundry | (224,224,3) | washing machine, laundry basket, detergent, clothes | ONNX | [model](004_laundry_classify/) |
 | cleaning | (224,224,3) | vacuum cleaner, mop, broom, dustpan, cleaning supplies | ONNX | [model](005_cleaning_classify/) |
 | gardening | (224,224,3) | lawnmower, rake, shovel, hose, gardening tools | ONNX | [model](006_gardening_classify/) |
+| childcare | (224,224,3) | toys, crib, high chair, stroller, baby monitor | ONNX | [model](007_childcare_classify/) |
 
 ### Detect
 *Coming soon!*
