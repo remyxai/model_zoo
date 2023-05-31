@@ -29,6 +29,8 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | childcare | (224,224,3) | toys, crib, high chair, stroller, baby monitor | ONNX | [model](007_childcare_classify/) |
 | elderly_care | (224,224,3) | walker, wheelchair, medication, hearing aid, glasses | ONNX | [model](008_elderly_care_classify/) |
 | personal_fitness | (224,224,3) | treadmill, weights, yoga mat, exercise ball, resistance bands | ONNX | [model](009_personal_fitness_classify/) |
+| pet_care | (224,224,3) | pet food, water bowl, leash, pet toys, pet bed | ONNX | [model](010_pet_care_classify/) |
+| grocery_shopping | (224,224,3) | shopping cart, vegetables, canned food, checkout counter | ONNX | [model](011_grocery_shopping_classify/) |
 
 ### Detect
 *Coming soon!*
