@@ -32,6 +32,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | pet_care | (224,224,3) | pet food, water bowl, leash, pet toys, pet bed | ONNX | [model](010_pet_care_classify/) |
 | grocery_shopping | (224,224,3) | shopping cart, vegetables, canned food, checkout counter | ONNX | [model](011_grocery_shopping_classify/) |
 | cooking | (224,224,3) | recipe book, ingredients, cooking pan, oven mitts, measuring cups | ONNX | [model](012_cooking_classify/) |
+| office | (224,224,3) | computer, printer, phone, filing cabinet, office supplies | ONNX | [model](013_office_classify/) |
 
 ### Detect
 *Coming soon!*
