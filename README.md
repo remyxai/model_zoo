@@ -33,6 +33,8 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | grocery_shopping | (224,224,3) | shopping cart, vegetables, canned food, checkout counter | ONNX | [model](011_grocery_shopping_classify/) |
 | cooking | (224,224,3) | recipe book, ingredients, cooking pan, oven mitts, measuring cups | ONNX | [model](012_cooking_classify/) |
 | home_maintenance_application | (224,224,3) | toolbox, hammer, screwdriver, wrench, nails | ONNX | [model](013_home_maintenance_application_classify/) |
+| office | (224,224,3) | computer, printer, phone, filing cabinet, office supplies | ONNX | [model](014_office_classify/) |
+
 
 ### Detect
 *Coming soon!*
