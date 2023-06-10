@@ -35,6 +35,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | home_maintenance_application | (224,224,3) | toolbox, hammer, screwdriver, wrench, nails | ONNX | [model](013_home_maintenance_application_classify/) |
 | office | (224,224,3) | computer, printer, phone, filing cabinet, office supplies | ONNX | [model](014_office_classify/) |
 | entertainment | (224,224,3) | television, remote control, gaming console, speakers | ONNX | [model](015_entertainment_classify/) |
+| personal_grooming_application | (224,224,3) | toothbrush, hair comb, razor, hair dryer | ONNX | [model](016_personal_grooming_application_classify/) |
 
 
 ### Detect
