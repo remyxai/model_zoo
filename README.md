@@ -41,6 +41,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | restaurant | (224,224,3) | dining table, chairs, silverware, plates | ONNX | [model](019_restaurant_classify/) |
 | library | (224,224,3) | books, shelves, computer, library card | ONNX | [model](020_library_classify/) |
 | shopping_mall | (224,224,3) | escalator, elevator, shopping bags | ONNX | [model](021_shopping_mall_classify/) |
+| movie_theater | (224,224,3) | movie tickets, popcorn, soda, theater seats | ONNX | [model](022_movie_theater_classify/) |
 
 
 ### Detect
