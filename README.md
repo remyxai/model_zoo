@@ -45,6 +45,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | airport | (224,224,3) | check-in counter, luggage, security checkpoint | ONNX | [model](023_airport_classify/) |
 | hospital | (224,224,3) | medical equipment, wheelchair, medications | ONNX | [model](024_hospital_classify/) |
 | school | (224,224,3) | classroom desks, chalkboard, textbooks, lockers | ONNX | [model](025_school_classify/) |
+| gym | (224,224,3) | exercise machines, locker room, water fountain, towels | ONNX | [model](026_gym_classify/) |
 
 
 ### Detect
