@@ -46,6 +46,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | hospital | (224,224,3) | medical equipment, wheelchair, medications | ONNX | [model](024_hospital_classify/) |
 | school | (224,224,3) | classroom desks, chalkboard, textbooks, lockers | ONNX | [model](025_school_classify/) |
 | gym | (224,224,3) | exercise machines, locker room, water fountain, towels | ONNX | [model](026_gym_classify/) |
+| park | (224,224,3) | playground, park benches, picnic tables, trash cans | ONNX | [model](027_park_classify/) |
 
 
 ### Detect
