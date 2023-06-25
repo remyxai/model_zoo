@@ -47,6 +47,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | school | (224,224,3) | classroom desks, chalkboard, textbooks, lockers | ONNX | [model](025_school_classify/) |
 | gym | (224,224,3) | exercise machines, locker room, water fountain, towels | ONNX | [model](026_gym_classify/) |
 | park | (224,224,3) | playground, park benches, picnic tables, trash cans | ONNX | [model](027_park_classify/) |
+| museum | (224,224,3) | museum map, information desk, souvenir | ONNX | [model](028_museum_classify/) |
 
 
 ### Detect
