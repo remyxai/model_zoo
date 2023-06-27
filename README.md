@@ -49,6 +49,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | park | (224,224,3) | playground, park benches, picnic tables, trash cans | ONNX | [model](027_park_classify/) |
 | museum | (224,224,3) | museum map, information desk, souvenir | ONNX | [model](028_museum_classify/) |
 | concert_venue | (224,224,3) | stage, seating, merchandise stand, restroom | ONNX | [model](029_concert_venue_classify/) |
+| gas_station | (224,224,3) | gas pumps, convenience store, air pump, car wash | ONNX | [model](030_gas_station_classify/) |
 
 
 ### Detect
