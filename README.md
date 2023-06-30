@@ -52,6 +52,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | gas_station | (224,224,3) | gas pumps, convenience store, air pump, car wash | ONNX | [model](030_gas_station_classify/) |
 | post_office | (224,224,3) | mailboxes, postage stamps, envelopes, packages | ONNX | [model](031_post_office_classify/) |
 | coffee_shop | (224,224,3) | coffee machine, cups, cup lids, coffee beans, pastries | ONNX | [model](032_coffee_shop_classify/) |
+| hair_salon | (224,224,3) | hair cutting tools, hair washing station, styling products, salon chair | ONNX | [model](033_hair_salon_classify/) |
 
 
 ### Detect
