@@ -53,6 +53,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | post_office | (224,224,3) | mailboxes, postage stamps, envelopes, packages | ONNX | [model](031_post_office_classify/) |
 | coffee_shop | (224,224,3) | coffee machine, cups, cup lids, coffee beans, pastries | ONNX | [model](032_coffee_shop_classify/) |
 | hair_salon | (224,224,3) | hair cutting tools, hair washing station, styling products, salon chair | ONNX | [model](033_hair_salon_classify/) |
+| veterinary_clinic | (224,224,3) | animal examination table, pet carrier, medical equipment | ONNX | [model](034_veterinary_clinic_classify/) |
 
 
 ### Detect
