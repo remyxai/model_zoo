@@ -54,6 +54,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | coffee_shop | (224,224,3) | coffee machine, cups, cup lids, coffee beans, pastries | ONNX | [model](032_coffee_shop_classify/) |
 | hair_salon | (224,224,3) | hair cutting tools, hair washing station, styling products, salon chair | ONNX | [model](033_hair_salon_classify/) |
 | veterinary_clinic | (224,224,3) | animal examination table, pet carrier, medical equipment | ONNX | [model](034_veterinary_clinic_classify/) |
+| fast_food_restaurant | (224,224,3) | menu board, cash register, drive-thru window | ONNX | [model](035_fast_food_restaurant_classify/) |
 
 
 ### Detect
