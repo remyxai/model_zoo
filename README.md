@@ -51,6 +51,11 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | concert_venue | (224,224,3) | stage, seating, merchandise stand, restroom | ONNX | [model](029_concert_venue_classify/) |
 | gas_station | (224,224,3) | gas pumps, convenience store, air pump, car wash | ONNX | [model](030_gas_station_classify/) |
 | post_office | (224,224,3) | mailboxes, postage stamps, envelopes, packages | ONNX | [model](031_post_office_classify/) |
+| coffee_shop | (224,224,3) | coffee machine, cups, cup lids, coffee beans, pastries | ONNX | [model](032_coffee_shop_classify/) |
+| hair_salon | (224,224,3) | hair cutting tools, hair washing station, styling products, salon chair | ONNX | [model](033_hair_salon_classify/) |
+| veterinary_clinic | (224,224,3) | animal examination table, pet carrier, medical equipment | ONNX | [model](034_veterinary_clinic_classify/) |
+| fast_food_restaurant | (224,224,3) | menu board, cash register, drive-thru window | ONNX | [model](035_fast_food_restaurant_classify/) |
+| car_dealership | (224,224,3) | cars, salesperson, car keys | ONNX | [model](036_car_dealership_classify/) |
 
 
 ### Detect
