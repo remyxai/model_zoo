@@ -56,6 +56,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | veterinary_clinic | (224,224,3) | animal examination table, pet carrier, medical equipment | ONNX | [model](034_veterinary_clinic_classify/) |
 | fast_food_restaurant | (224,224,3) | menu board, cash register, drive-thru window | ONNX | [model](035_fast_food_restaurant_classify/) |
 | car_dealership | (224,224,3) | cars, salesperson, car keys | ONNX | [model](036_car_dealership_classify/) |
+| furniture_store | (224,224,3) | sofa, bed, table, chair | ONNX | [model](037_furniture_store_classify/) |
 
 
 ### Detect
