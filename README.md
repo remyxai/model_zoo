@@ -57,6 +57,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | fast_food_restaurant | (224,224,3) | menu board, cash register, drive-thru window | ONNX | [model](035_fast_food_restaurant_classify/) |
 | car_dealership | (224,224,3) | cars, salesperson, car keys | ONNX | [model](036_car_dealership_classify/) |
 | furniture_store | (224,224,3) | sofa, bed, table, chair | ONNX | [model](037_furniture_store_classify/) |
+| electronics_store | (224,224,3) | television, computer, smartphone, tablet | ONNX | [model](038_electronics_store_classify/) |
 
 
 ### Detect
