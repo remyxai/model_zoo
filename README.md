@@ -59,6 +59,10 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | furniture_store | (224,224,3) | sofa, bed, table, chair | ONNX | [model](037_furniture_store_classify/) |
 | electronics_store | (224,224,3) | television, computer, smartphone, tablet | ONNX | [model](038_electronics_store_classify/) |
 | hardware_store | (224,224,3) | tools, paint can, lumber, plumbing supplies | ONNX | [model](039_hardware_store_classify/) |
+| toy_store | (224,224,3) | toy display, stuffed animal, games, puzzles | ONNX | [model](040_toy_store_classify/) |
+| shoe_store | (224,224,3) | shoe racks, shoeboxes, seating area, mirror | ONNX | [model](041_shoe_store_classify/) |
+| jewelry_store | (224,224,3) | display cases, rings, necklaces, earrings | ONNX | [model](042_jewelry_store_classify/) |
+| supermarket | (224,224,3) | produce, meat, dairy, bakery, frozen foods | ONNX | [model](043_supermarket_classify/) |
 
 
 ### Detect
