@@ -63,6 +63,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | shoe_store | (224,224,3) | shoe racks, shoeboxes, seating area, mirror | ONNX | [model](041_shoe_store_classify/) |
 | jewelry_store | (224,224,3) | display cases, rings, necklaces, earrings | ONNX | [model](042_jewelry_store_classify/) |
 | supermarket | (224,224,3) | produce, meat, dairy, bakery, frozen foods | ONNX | [model](043_supermarket_classify/) |
+| bakery | (224,224,3) | bread, pastries, cakes, cookies, cashier | ONNX | [model](044_bakery_classify/) |
 
 
 ### Detect
