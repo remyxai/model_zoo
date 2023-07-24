@@ -64,6 +64,8 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | jewelry_store | (224,224,3) | display cases, rings, necklaces, earrings | ONNX | [model](042_jewelry_store_classify/) |
 | supermarket | (224,224,3) | produce, meat, dairy, bakery, frozen foods | ONNX | [model](043_supermarket_classify/) |
 | bakery | (224,224,3) | bread, pastries, cakes, cookies, cashier | ONNX | [model](044_bakery_classify/) |
+| florist | (224,224,3) | tulips, roses, peace lily, vases | ONNX | [model](045_florist_classify/) |
+| real_estate_office | (224,224,3) | living room, kitchen, bathroom, garage | ONNX | [model](046_real_estate_office_classify/) |
 
 
 ### Detect
