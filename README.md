@@ -66,6 +66,7 @@ For project inspiration/examples, check out the Remyx [experiments repo](https:/
 | bakery | (224,224,3) | bread, pastries, cakes, cookies, cashier | ONNX | [model](044_bakery_classify/) |
 | florist | (224,224,3) | tulips, roses, peace lily, vases | ONNX | [model](045_florist_classify/) |
 | real_estate_office | (224,224,3) | living room, kitchen, bathroom, garage | ONNX | [model](046_real_estate_office_classify/) |
+| home_inspector_recognition | (224,224,3) | light fixture, door, window, smoke detector | ONNX | [model](047_home_inspector_recognition_classify/) |
 
 
 ### Detect
